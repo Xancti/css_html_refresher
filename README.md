@@ -2,6 +2,7 @@
 CSS and HTML crash course from DesignCourse; done as a refresher
 
 2022/June/6
+
 Hey everyone! Was just doing this tutorial from DesignCourse/Gary Simon as a means to jog my HTML/CSS memories
 before going into deeper stuff.
 
